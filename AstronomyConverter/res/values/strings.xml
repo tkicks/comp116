@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Astronomy Converter</string>
+    <string name="titleText">Distance Conversions</string>
+    <string name="kmText">Kilometers:</string>
+    <string name="km">KM</string>
+    <string name="auText">Astronomical Units:</string>
+    <string name="au">AU</string>
+    <string name="lyText">Light years:</string>
+    <string name="ly">LY</string>
+    <string name="pcText">Parsecs:</string>
+    <string name="pc">PC</string>
+    <string name="convertButton">Convert</string>
+    <string name="clearButton">Clear</string>
+    <string name="disclosure">CONVERTS IN ORDER OF APPEARANCE.</string>
+    <string name="disclosure2">CLEAR AFTER EACH CONVERT.</string>
+    <string name="action_settings">Settings</string>    
+
+</resources>
