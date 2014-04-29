@@ -1,0 +1,139 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:descendantFocusability="beforeDescendants"
+  	android:focusableInTouchMode="true"
+    tools:context=".MainActivity" >
+    
+    <TextView
+        android:id="@+id/titleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:text="@+string/titleText"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/kmText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/km"
+        android:layout_alignParentLeft="true"
+        android:text="@+string/kmText" />
+
+    <EditText
+        android:id="@+id/km"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="100dp"
+        android:layout_toRightOf="@+id/kmText"
+        android:ems="10"
+        android:hint="@+string/km"
+        android:inputType="numberDecimal" />
+
+    <TextView
+        android:id="@+id/auText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/kmText"
+        android:layout_below="@+id/kmText"
+        android:layout_marginTop="80dp"
+        android:text="@+string/auText" />
+
+    <EditText
+        android:id="@+id/au"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/auText"
+        android:layout_alignLeft="@+id/km"
+        android:ems="10" 
+        android:hint="@+string/au"
+        android:inputType="numberDecimal" />
+
+
+    <TextView
+        android:id="@+id/lyText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/auText"
+        android:layout_below="@+id/auText"
+        android:layout_marginTop="80dp"
+        android:text="@+string/lyText" />
+
+    <EditText
+        android:id="@+id/ly"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/lyText"
+        android:layout_alignLeft="@+id/au"
+        android:ems="10" 
+        android:hint="@+string/ly"
+        android:inputType="numberDecimal" />
+
+    <TextView
+        android:id="@+id/pcText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/lyText"
+        android:layout_below="@+id/lyText"
+        android:layout_marginTop="80dp"
+        android:text="@+string/pcText" />
+
+    <EditText
+        android:id="@+id/pc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/pcText"
+        android:layout_alignLeft="@+id/ly"
+        android:ems="10"
+        android:hint="@+string/pc"
+        android:inputType="numberDecimal" />
+
+    <TextView
+        android:id="@+id/disclosure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:gravity="center_horizontal"
+        android:text="@+string/disclosure" />
+    
+    <TextView
+        android:id="@+id/disclosure2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="1dp"
+        android:gravity="center_horizontal"
+        android:text="@+string/disclosure2" />
+
+    <Button
+        android:id="@+id/convertButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/clearButton"
+        android:layout_alignBottom="@+id/clearButton"
+        android:layout_alignLeft="@+id/pcText"
+        android:text="@+string/convertButton" />
+
+    <Button
+        android:id="@+id/clearButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/disclosure"
+        android:layout_alignRight="@+id/pc"
+        android:layout_marginBottom="15dp"
+        android:text="@+string/clearButton" />
+
+</RelativeLayout>
