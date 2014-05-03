@@ -1,9 +1,10 @@
 /*	Programmer: Tyler Kickham
 	Summary: A 20 questions game that learns the more it's played
 	DLM: 4/23/14 (tkk) - Node CTORs, GetText, StoreText working
-		 4/3-/14 (tkk) - Game working in terms of building as it goes and limiting questions to
+		 4/30/14 (tkk) - Game working in terms of building as it goes and limiting questions to
 		 				 20 (for testing purposes 5), prints out individual characters so that
 		 				 it feels more like a real person than a computer
+		 5/03/14 (tkk) - Added playAgain and saveGame to be more concise
 	Input:	standard input from keyboard
 	Output: standard output through console playing the course of a game
 */
@@ -18,6 +19,8 @@ using namespace std;
 // functions
 bool yesAnswer(string);
 void printText(string);
+void playAgain();
+void saveGame();
 
 Tree T("Is it an animal?", "horse", "black hole");
 short MAX_QUESTIONS = 5;	// variable to hold the maximum number of quesitons
@@ -80,34 +83,9 @@ int main()
 	if (answerIs)		// if the game wins
 	{
 		// play again?
-		couText = "I win!\nWould you like to play again?  ";
-		printText(couText);
-		getline(cin, answer);
-		answerIs = yesAnswer(answer);
-		cout << "\n================================================================\n";
-		// if user wants to play again
-		if (answerIs)
-			main();		// recursively run the program
-		// if the user doesn't want to play again
-		else
-		{
-			// save the game?
-			couText = "Would you like to save your game?  ";
-			printText(couText);
-			getline(cin, answer);
-			answerIs = yesAnswer(answer);
-			// if the user wants to save the game
-			if (answerIs)
-			{
-				// what should it be saved as?
-				couText = "Enter a filename:  ";
-				printText(couText);
-				getline(cin, answer);
-				T.SaveTreeToFile(answer);
-			}
-		}
-
+		playAgain();
 	}
+
 	// if the game loses and the counter hasn't reached the question limit on the branch
 	else if (!answerIs && counter == MAX_QUESTIONS)
 	{
@@ -123,31 +101,9 @@ int main()
 		pCurrent->StoreText(answer);
 
 		// play again?
-		couText = "Would you like to play again?  ";
-		printText(couText);
-		getline(cin, answer);
-		answerIs = yesAnswer(answer);
-		cout << "\n================================================================\n";
-
-		// if the user wants to play again
-		if (answerIs)
-			main();		// recursively play again
-		// if they don't want to play again
-		else
-		{
-			couText = "Would you like to save your game?  ";
-			printText(couText);
-			getline(cin, answer);
-			answerIs = yesAnswer(answer);
-			if (answerIs)
-			{
-				couText = "Enter a filename:  ";
-				printText(couText);
-				getline(cin, answer);
-				T.SaveTreeToFile(answer);
-			}
-		}
+		playAgain();
 	}
+
 	else
 	{
 		// move answer to no
@@ -166,28 +122,7 @@ int main()
 		pCurrent->AppendYes(new Node(answer));
 
 		// play again?
-		couText = "Would you like to play again?  ";
-		printText(couText);
-		getline(cin, answer);
-		answerIs = yesAnswer(answer);
-		cout << "\n================================================================\n";
-
-		if (answerIs)
-			main();
-		else
-		{
-			couText = "Would you like to save your game?  ";
-			printText(couText);
-			getline(cin, answer);
-			answerIs = yesAnswer(answer);
-			if (answerIs)
-			{
-				couText = "Enter a filename:  ";
-				printText(couText);
-				getline(cin, answer);
-				T.SaveTreeToFile(answer);
-			}
-		}
+		playAgain();
 	}
 }
 
@@ -215,5 +150,52 @@ void printText(string textToOutput)
 			// print out each letter individually to the console
 			cout << textToOutput[i] << flush;
 			usleep(40000);
+			bool playAgain();
 		}
+}
+
+void playAgain()
+//..........................................
+// PRE: 
+// POST: RETURN == boolean value to determine whether to run again
+{
+	string answer, couText;
+	bool answerIs = false;
+	// play again?
+	couText = "I win!\nWould you like to play again?  ";
+	printText(couText);
+	getline(cin, answer);
+	answerIs = yesAnswer(answer);
+	cout << "\n================================================================\n";
+	// if user wants to play again
+	if (answerIs)
+		main();		// recursively run the program
+	// if the user doesn't want to play again
+	else
+	{
+		// save the game?
+		saveGame();
+	}
+}
+
+void saveGame()
+//..........................................
+// PRE: 
+// POST: RETURN == boolean value to determine whether to save the game
+{
+	string answer, couText;
+	bool answerIs = false;
+	couText = "Would you like to save your game?  ";
+	printText(couText);
+	getline(cin, answer);
+	answerIs = yesAnswer(answer);
+	// if the user wants to save the game
+	if (answerIs)
+	{
+		// what should it be saved as?
+		couText = "Enter a filename:  ";
+		printText(couText);
+		getline(cin, answer);
+		T.SaveTreeToFile(answer);
+	}
 }
