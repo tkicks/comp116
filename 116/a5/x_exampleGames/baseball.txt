@@ -1,0 +1,177 @@
+Is it a team from the National League?
+1
+Is the team part of the Eastern division?
+1
+Is the team part of the Central division?
+1
+Is the team from California?
+1
+Is the home stadium of the team in Texas?
+1
+Seattle Mariners
+0
+0
+1
+Texas Rangers
+0
+0
+1
+Are the team colors green and yellow?
+1
+LA Angels
+0
+0
+1
+Oakland Athletics
+0
+0
+1
+Are there 2 letters on the team's baseball hat?
+1
+Is the team logo NOT an animal?
+1
+Detroit Tigers
+0
+0
+1
+Are the team colors black and white?
+1
+Clevland Indians
+0
+0
+1
+Chicago White Sox
+0
+0
+1
+Is there any red on the team's uniform?
+1
+Kansas City Chiefs
+0
+0
+1
+Minnesota Twins
+0
+0
+1
+Is the team logo a bird?
+1
+Is the team's stadium located in Florida?
+1
+Does the stadium have a "Green Monster"?
+1
+New York Yankees
+0
+0
+1
+Boston Red Sox
+0
+0
+1
+Tampa Bay Rays
+0
+0
+1
+Is the team logo a blue bird?
+1
+Baltimore Orioles
+0
+0
+1
+Toronto Blue Jays
+0
+0
+1
+Is the team from the Western division?
+1
+Is the team from the Central division?
+1
+Does the team NOT have a red uniform?
+1
+Is the team from our nation's capital?
+1
+Phillies
+0
+0
+1
+Washington Nationals
+0
+0
+1
+Is the team from a southern state?
+1
+New York Mets
+0
+0
+1
+Is the team logo an animal?
+1
+Atlanta Braves
+0
+0
+1
+Florida Marlins
+0
+0
+1
+Is the main color of the team's uniform red?
+1
+Does the team have black uniforms?
+1
+Is the team from Illinois?
+1
+Milwaukee Brewers
+0
+0
+1
+Chicago Cubs
+0
+0
+1
+Pittsburgh Pirates
+0
+0
+1
+Is the team logo a bird?
+1
+Is the team from Texas?
+1
+Cincinnati Reds
+0
+0
+1
+Houston Astros
+0
+0
+1
+St. Louis Cardinals
+0
+0
+1
+Is the team from California?
+1
+Does the team have a red uniform?
+1
+Colorado Rockies
+0
+0
+1
+Arizona Diamondbacks
+0
+0
+1
+Does the team have a blue uniform?
+1
+San Francisco Giants
+0
+0
+1
+Is the team from Los Angeles?
+1
+San Diego Padres
+0
+0
+1
+LA Dodgers
+0
+0

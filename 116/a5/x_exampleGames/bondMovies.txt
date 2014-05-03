@@ -1,0 +1,147 @@
+Is the movie produced by EON productions (i.e. the corporation started by Albert R. Broccoli)?
+1
+Was the movie a Climax! TV episode instead of a real film?
+1
+Did Sean Connery play Bond in the film?
+1
+Casino Royale (1967)
+0
+0
+1
+Never Say Never Again
+0
+0
+1
+Casino Royale (1954)
+0
+0
+1
+Was the movie produced before 1980?
+1
+Is the title of the film based on one of Ian Fleming's works?
+1
+Does the title of the film contain the word 'Die' or 'Kill'?
+1
+Does the main enemy feel no pain?
+1
+GoldenEye
+0
+0
+1
+The World Is Not Enough
+0
+0
+1
+Does the actor who play Bond only appear in one other film?
+1
+Is Halle Berry in the film?
+1
+Tomorrow Never Dies
+0
+0
+1
+Die Another Day
+0
+0
+1
+License to Kill
+0
+0
+1
+Is Roger Moore the actor who plays Bond?
+1
+Was the movie produced in the 21st century?
+1
+The Living Daylights
+0
+0
+1
+Does someone drown in oil in the film?
+1
+Casino Royale
+0
+0
+1
+Quantum of Solace
+0
+0
+1
+Is there a theme in the film that revolves around octopi?
+1
+Is there a character named Mayday in the film?
+1
+For Your Eyes Only
+0
+0
+1
+A View to a Kill
+0
+0
+1
+Octopussy
+0
+0
+1
+Is the main enemy a part of SPECTRE?
+1
+Does someone turn to gold in the film?
+1
+Is Sheriff J.W. Pepper in the film?
+1
+Does Bond work with a female agent for the majority of the film?
+1
+Moonraker
+0
+0
+1
+The Spy Who Loved Me
+0
+0
+1
+Does Bond visit Louisiana as part of his mission?
+1
+The Man with the Golden Gun
+0
+0
+1
+Live and Let Die
+0
+0
+1
+Goldfinger
+0
+0
+1
+Is the main enemy in the movie Blofeld? (i.e. does he directly appear in the movie?)
+1
+Is the CIA agent Felix Leiter in the movie?
+1
+From Russia with Love
+0
+0
+1
+Is this the first Bond movie produced by EON productions?
+1
+Thunderball
+0
+0
+1
+Dr. No
+0
+0
+1
+Is this the only EON Bond film to feature this actor as Bond?
+1
+Is this the last Bond film to star Sean Connery?
+1
+You Only Live Twice
+0
+0
+1
+Diamonds are Forever
+0
+0
+1
+On Her Majesty's Secret Service
+0
+0

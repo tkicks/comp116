@@ -1,0 +1,298 @@
+Is it in the Northeast?
+1
+Is it in the Midwest?
+1
+Is it in the South?
+1
+Is it in the West?
+1
+Is it very cold there?
+1
+Hawaii
+0
+0
+1
+Alaska 
+0 
+0
+1
+Does it border water?
+1
+Does it border another country?
+1
+Does it begin with one of the first three letters in the alphabet?
+1
+Is Yellow Stone Park there?
+1
+Is Las Vegas there?
+1
+Utah 
+0
+0
+1
+Nevada
+0
+0
+1
+Wyoming
+0
+0
+1
+Colorado
+0
+0
+1
+Is it very hot there?
+1
+Is it famous for potatoes?
+1
+Montana
+0
+0
+1
+Idaho
+0
+0
+1
+Is it named after another country?
+1
+Arizona
+0
+0
+1
+New Mexico
+0
+0
+1
+Is it square shaped?
+1
+California
+0
+0
+1
+Does it border Canada?
+1
+Oregon
+0
+0
+1
+Washington
+0
+0
+1
+Does it border a large body of water?
+1
+Are they known for their fried chicken?
+1
+Is there another Southern state with a very similar name?
+1
+Is its last letter a vowel?
+1
+Arkansas
+0
+0
+1
+Does it border Texas?
+1
+Tennessee
+0
+0
+1
+Oklahoma
+0
+0
+1
+West Virginia
+0
+0
+1
+Kentucky
+0
+0
+1
+Does it lay north of Georgia? (if thinking of Georgia, reply no)
+1
+Is it almost entirely surrounded by water?
+1
+Is it very large?
+1
+Is there a song the describes the state as "sweet home"?
+1
+When spelling its name, are there a lot of s's?
+1
+Is it at risk of flooding?
+1
+Georgia
+0
+0
+1
+Louisiana
+0
+0
+1
+Mississippi
+0
+0
+1
+Alabama
+0
+0
+1
+Texas
+0
+0
+1
+Florida
+0
+0
+1
+Is there a state with a very similar name?
+1
+Are there any other states thats name begins with the same letter?
+1
+Delaware
+0
+0
+1
+Maryland
+0
+0
+1
+Does it border Georgia (even a little piece)?
+1
+Virginia
+0
+0
+1
+Is it "north"?
+1
+South Carolina
+0
+0
+1
+North Carolina
+0
+0
+1
+Does it border the Great Lakes?
+1
+Is there another state with a very similar name?
+1
+Does its name begin with a letter that comes after 'L' in  the alphabet?
+1
+Is it's capital Topeka?
+1
+Iowa
+0
+0
+1
+Kansas
+0
+0
+1
+Is it known as "the great American desert"?
+1
+Missouri
+0
+0
+1
+Nebraska
+0
+0
+1
+Does is border Canada?
+1
+South Dakota
+0
+0
+1
+North Dakota
+0
+0
+1
+Is there another state in the Midwest that begins with the same letter as yours?
+1
+Does it begin with one of the last five letters in the alphabet?
+1
+Ohio
+0
+0
+1
+Wisconsin
+0
+0
+1
+Is it divided into two regions separated by a lake?
+1
+Does it end with the letter 'a'?
+1
+Illinois
+0
+0
+1
+Does the capital begin with the same letter as the state?
+1
+Minnesota
+0
+0
+1
+Indiana
+0
+0
+1
+Michigan
+0
+0
+1
+Does it border the Atlantic Ocean?
+1
+Does it border the Great Lakes?
+1
+Vermont
+0
+0
+1
+Does it border Massachusetts?
+1
+Pennsylvania
+0
+0
+1
+New York
+0
+0
+1
+Is it north of Massachusetts? (if state is MA, reply no)
+1
+Is it smaller than Massachusetts? (if state is MA, reply no)
+1
+Is an MTV reality show filmed there?
+1
+Massachusetts
+0
+0
+1
+New Jersey
+0
+0
+1
+Is it the smallest state?
+1
+Connecticut
+0
+0
+1
+Rhode Island
+0
+0
+1
+Do they have sales tax?
+1
+New Hampshire
+0
+0
+1
+Maine
+0
+0
+1

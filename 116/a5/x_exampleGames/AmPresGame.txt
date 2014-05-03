@@ -1,0 +1,255 @@
+Did he come into office before 1868?
+1
+Was he a Democrat?
+1
+Was he assasinated?
+1
+Was he president after WWI?
+1
+Did he only serve one term?
+1
+Did he form the Bull Moose Party, the only third party candidate to win second place in a national election?
+1
+Ulysses S. Grant
+0
+0
+1
+Theodore Roosevelt
+0
+0
+1
+After his presidency, did he return to political office?
+1
+Did he inherit the presidency following an assasination?
+1
+Benjamin Harrison
+0
+0
+1
+Chester A Arthur
+0
+0
+1
+Did he later become a Supreme Court Cheif Justice?
+1
+Rutherford B Hayes
+0
+0
+1
+William Howard Taft
+0
+0
+1
+Did he serve in the US Military?
+1
+Was he born after the American Civil War?
+1
+Warren G Harding
+0
+0
+1
+Did FDR name a dam after him?
+1
+Calvin Coolidge
+0
+0
+1
+Herbert Hoover
+0
+0
+1
+Is there a significant amount of legal controversy surrounding his administration?
+1
+Did he serve in WWII?
+1
+George W Bush
+0
+0
+1
+Did he serve only one term?
+1
+Was he a Five Star General of the Army?
+1
+Ronald Reagan
+0
+0
+1
+Dwight D Eisenhower
+0
+0
+1
+George H W Bush
+0
+0
+1
+Was he elected?
+1
+Gerald Ford
+0
+0
+1
+Richard Nixon
+0
+0
+1
+Did he annex Hawaii?
+1
+James A Garfield
+0
+0
+1
+William McKinley
+0
+0
+1
+Did he serve two non-consecutive terms?
+1
+Was he known by three initials?
+1
+Is he a key figure in the Habitat for Humanity organization?
+1
+Was he President during the 21st century?
+1
+Did he win an astonishing underdog election for his second term?
+1
+Woodrow Wilson
+0
+0
+1
+Harry S Truman
+0
+0
+1
+Did he follow a one-term President?
+1
+Barack Obama
+0
+0
+1
+Bill Clinton
+0
+0
+1
+Jimmy Carter
+0
+0
+1
+Is he on the 50 cent coin?
+1
+Did he serve as Vice President?
+1
+Franklin D Roosevelt
+0
+0
+1
+Lyndon Baines Johnson
+0
+0
+1
+John F Kennedy
+0
+0
+1
+Grover Cleveland
+0
+0
+1
+Does he have a J in his name?
+1
+Did he serve only one term?
+1
+Did he carry the nation through the Civil War?
+1
+George Washington
+0
+0
+1
+Abraham Lincoln
+0
+0
+1
+Was his presidency terminated prematurely?
+1
+Was he mentored by Andrew Jackson?
+1
+Is he the only president from New Hampshire?
+1
+Millard Fillmore
+0
+0
+1
+Franklin Pierce
+0
+0
+1
+Martin Van Buren
+0
+0
+1
+Does he hold the record for the shortest presidency?
+1
+Zachary Taylor
+0
+0
+1
+William Henry Harrison
+0
+0
+1
+Was he born before the signing of the Declaration of Independence?
+1
+Was he involved in the annexation of Texas?
+1
+Was he every put to trial for impeachment?
+1
+James Buchanan
+0
+0
+1
+Andrew Johnson
+0
+0
+1
+Was he responsible for aquiring both Oregon Territory and the majority of the Southwest?
+1
+John Tyler
+0
+0
+1
+James K Polk
+0
+0
+1
+Did he serve in the Military?
+1
+Was his last name Adams?
+1
+Did he negotiate the Louisiana Purchase?
+1
+James Monroe
+0
+0
+1
+Thomas Jefferson
+0
+0
+1
+Was he one of the Founding Fathers?
+1
+John Quincy Adams
+0
+0
+1
+John Adams
+0
+0
+1
+Is his face on the 20 dollar bill?
+1
+James Madison
+0
+0
+1
+Andrew Jackson
+0
+0

@@ -1,0 +1,81 @@
+Is it a woodwind instrument?
+1
+Is the sound created by moving air through the instrument?
+1
+Does it play actual pitched notes?
+1
+Are the heads horizontal? (facing up and down)
+1
+bass drum
+0
+0
+1
+snare drum
+0
+0
+1
+Is sound created by striking a drum head?
+1
+bells
+0
+0
+1
+timpani
+0
+0
+1
+Does it play higher pitched notes?
+1
+Does it have a slide?
+1
+tuba
+0
+0
+1
+trombone
+0
+0
+1
+Is it usually used in jazz music?
+1
+french horn
+0
+0
+1
+trumpet
+0
+0
+1
+Does it have a reed?
+1
+Is it more than a foot long?
+1
+piccolo
+0
+0
+1
+flute
+0
+0
+1
+Does it have a single reed?
+1
+Is it a short instrument?
+1
+bassoon
+0
+0
+1
+oboe
+0
+0
+1
+Is it made of metal?
+1
+clarinet
+0
+0
+1
+saxophone
+0
+0
